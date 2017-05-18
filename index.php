@@ -1,5 +1,5 @@
 <?php
 
-echo "<h1>Best app ever!!";
-echo "<br><br>awesome";
-echo "<br>but not as cool as this";
+echo "<h1>Cognizant DevOps PHP app first time!!";
+echo "<br><br>Just cool and awesome";
+echo "<br>Welcome to OpenShift world";
